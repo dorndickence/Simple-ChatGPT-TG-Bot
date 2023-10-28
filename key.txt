@@ -1,3 +1,3 @@
-sk-xxxxxxxx
-12345678:xxxxxxxxx
-xxxxxxxx_bot
+sk-C8AfTSAQ4FLMgC594lbnT3BlbkFJdKDQFcvFXuvMQ9w75mjOPENAI_API_KEY=sk-C8AfTSAQ4FLMgC594lbnT3BlbkFJdKDQFcvFXuvMQ9w75mjVV
+6692506798:AAFk6xRWnlex19mup4fKhbWkpxfJvEdimh0
+Dickence_bot
